@@ -184,13 +184,11 @@ Key Features
 
 <div align="center">
 
-<a href="https://github.com/ajxlv">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ajxlv&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-</a>
+<img height="170" alt="GitHub Stats"
+src="https://github-readme-stats.vercel.app/api?username=ajxlv&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
 
-<a href="https://github.com/ajxlv">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajxlv&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
-</a>
+<img height="170" alt="Top Languages"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajxlv&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800"/>
 
 <br><br>
 
