@@ -1,162 +1,252 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi%20there%2C%20I%27m%20Alex%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=55&descSize=18" alt="header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:EA580C&height=180&section=header&text=Atharva%20Jadhav&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Software%20Engineering&descAlignY=58&descSize=18"/>
 
-### 🚀 AI/ML Engineer | Full Stack Developer
+<img src="./assets/profile.png" width="180" style="border-radius:50%;" alt="Atharva Jadhav"/>
 
-*Transforming ideas into scalable AI-powered solutions*
+# Atharva Jadhav
 
-<img src="https://komarev.com/ghpvc/?username=alexsharma-ai&label=Profile%20Views&color=667eea&style=for-the-badge" />
+### Artificial Intelligence & Data Science Engineer
 
-<br><br>
+Building practical AI solutions through Machine Learning, Full Stack Development, and Data Engineering.
 
-<a href="https://alexsharma.dev">
-<img src="https://img.shields.io/badge/Portfolio-alexsharma.dev-667eea?style=for-the-badge&logo=vercel&logoColor=white"/>
+<p align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/alexsharma">
-<img src="https://img.shields.io/badge/LinkedIn-Alex%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-F97316?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:alexsharma@gmail.com">
-<img src="https://img.shields.io/badge/Email-alexsharma@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA580C?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-FB923C?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-
-<br>
-
-## 💫 About Me
-
-- 🎓 B.Tech Computer Science Engineering (AI & Data Science) @ ABC Institute of Technology
-- 🤖 Passionate about Artificial Intelligence, Machine Learning & Data Analytics
-- 🌐 Building scalable full-stack applications powered by AI
-- 🚀 Exploring Generative AI, LLMs, Computer Vision & Cloud Computing
-- 🏆 Hackathon Winner | Open Source Contributor
-- 📍 Pune, India
-
-
-<br>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 👨‍💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-### 🤖 AI / ML / Data Science
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-
-### 🌐 Web Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-
-### ☁️ Database & Cloud
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-
-### 🧰 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+</p>
 
 </div>
 
+---
 
-<br>
+# About Me
 
+I am a B.Tech student in **Artificial Intelligence & Data Science** with a strong interest in Artificial Intelligence, Machine Learning, Data Analytics and Software Engineering.
 
-## 📊 GitHub Stats
+Currently working on AI-driven sustainability solutions through **Carbonomics AI**, while continuously expanding my knowledge in cloud computing, backend development and intelligent systems.
 
-<div align="center">
+My goal is to build scalable products that combine AI with real-world applications.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alexsharma-ai&show_icons=true&theme=tokyonight&hide_border=true"/>
+---
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsharma-ai&layout=compact&theme=tokyonight&hide_border=true"/>
+# Education
 
-<br>
+**B.Tech – Artificial Intelligence & Data Science**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alexsharma-ai&theme=tokyonight&hide_border=true"/>
+K. K. Wagh Institute of Engineering Education & Research, Nashik
 
-</div>
+---
 
+# Technical Skills
 
-<br>
+## Programming Languages
 
+<p>
 
-## 🏆 Achievements & Certifications
+<img src="https://skillicons.dev/icons?i=python,cpp,js,sql"/>
 
-<div align="center">
+</p>
 
-<img src="https://img.shields.io/badge/Hackathon-Winner-gold?style=for-the-badge&logo=trophy"/>
-<img src="https://img.shields.io/badge/AWS-Certified-orange?style=for-the-badge&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/AI-Research-blue?style=for-the-badge&logo=openai"/>
+---
 
-</div>
+## AI & Machine Learning
 
+<p>
 
-<br>
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
 
+</p>
 
-## 🌟 Featured Projects
+- Machine Learning
+- Deep Learning
+- Scikit-Learn
+- Pandas
+- NumPy
+- Data Analysis
+
+---
+
+## Backend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=django,flask,nodejs,express"/>
+
+</p>
+
+---
+
+## Frontend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
+
+</p>
+
+---
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+</p>
+
+---
+
+## Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github"/>
+
+</p>
+
+---
+
+## Tools
+
+- VS Code
+- Figma
+- Power BI
+- Tableau
+- Postman
+
+---
+
+# Experience
+
+### HAL Internship
+
+**Machine Learning Engineer Intern**
+
+- Developed regression and interpolation models for aircraft performance prediction.
+- Implemented Polynomial Regression, Multiple Linear Regression, Decision Tree, Random Forest and KNN models.
+- Compared model performance using evaluation metrics.
+- Built a browser-based interface for prediction and visualization.
+
+---
+
+### Carbonomics AI
+
+Lead Developer
+
+AI-powered Carbon Accounting and Sustainability Analytics Platform.
+
+Key Features
+
+- Carbon Footprint Estimation
+- Scope 1, Scope 2 & Scope 3 Analysis
+- Machine Learning Prediction
+- Interactive Dashboard
+- Sustainability Reporting
+
+---
+
+# Featured Projects
 
 | Project | Description |
-|---|---|
-| **AI Resume Analyzer** | NLP-based resume screening platform using Machine Learning |
-| **HealthGuard AI** | Disease prediction system using ML models |
-| **Smart Attendance System** | Face recognition based attendance automation |
-| **ChatBot Assistant** | LLM-powered conversational AI assistant |
+|----------|-------------|
+| **Carbonomics AI** | AI-powered Carbon Accounting and Sustainability Analytics Platform |
+| **HAL Aircraft Performance Prediction** | Machine Learning based aircraft engine performance prediction system |
+| **SmartHeal** | AI-powered healthcare assistant |
+| **Algonix** | Gamified coding practice platform |
+| **Personal Portfolio** | Modern responsive developer portfolio |
 
+---
 
-<br>
+# Certifications
 
+- NPTEL – Programming, Data Structures and Algorithms using Python (Elite)
+- AWS Skill Builder Courses
+- Google AI Learning Programs
 
-## 🤝 Connect With Me
+---
 
-<div align="center">
-
-<a href="https://github.com/alexsharma-ai">
-<img src="https://img.shields.io/badge/GitHub-alexsharma--ai-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/alexsharma">
-<img src="https://img.shields.io/badge/LinkedIn-Alex%20Sharma-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</div>
-
-
-<br>
+# GitHub Statistics
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
 
 </div>
+
+---
+
+# GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&bg_color=0d1117&color=F97316&line=F97316&point=FB923C&hide_border=true"/>
+
+</p>
+
+---
+
+# Current Focus
+
+- Machine Learning
+- Artificial Intelligence
+- Backend Development
+- Cloud Computing
+- GATE CSE Preparation
+- Open Source Contributions
+
+---
+
+# Connect
+
+<p align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+
+<img src="https://img.shields.io/badge/LinkedIn-F97316?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+
+<img src="https://img.shields.io/badge/Email-EA580C?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+*"Building intelligent systems that solve real-world problems."*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EA580C,100:F97316&height=120&section=footer"/>
