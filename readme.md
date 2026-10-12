@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/profile.png" width="160" alt="Atharva Jadhav">
-</p>
-
 <h1 align="center">Atharva Jadhav</h1>
 
 <p align="center">
